@@ -1,0 +1,26 @@
+Pilares:
+    Herança
+    Polimorfismos
+    Encapsulamento
+    Abstração   
+
+    Herança:
+        Termos mais Genericos Civic -> Carro,
+Carro é mais generico que Civic
+Um objeto pode herdar caracteristicas de outro
+objeto "pai".
+        Composição:Carro -> Motor, Carro é composto por motor
+    neste caso nao é Herança
+
+    Encapsulamento:
+    Capacidade de ter Funções internas em uma classe
+    Ou seja parte interna fica escondida e o usuario
+    nao precisa de conhecimento
+    
+    Polimorfismo:
+    Ducktype, se o objeto tiver funções muito parecidas
+    entao podemos usar suas funções.
+
+    Abstração:
+    Saber extrair do mundo real o que é de fato relevante
+    
